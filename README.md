@@ -1,2 +1,2 @@
 # Forage
-![Github stars](https://img.shields.io/github/stars/Curryfaust/Forage-project.svg)
+![Github stars](https://img.shields.io/badge/forage-text-blue)
